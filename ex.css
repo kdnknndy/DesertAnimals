@@ -1,0 +1,172 @@
+* {
+  color: #3a3a3a;
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+  position: static;
+}
+
+.logo {
+  height: 75px;
+  width: 400px;
+  image-rendering: crisp-edges;
+  margin-bottom: 20px;
+  align-self: center;
+  margin-left: 777px;
+  margin-right: auto;
+  display: block;
+}
+
+img  {
+  width: 705px;
+  height: 591px;
+  border-radius: 15px;
+  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  border: 2px solid black;
+}
+
+h1  {
+  text-align: center;
+  color: #3a3a3a;
+
+}
+ 
+nav  {
+  border: 2px solid black;
+  padding: 5px;
+  
+}
+
+.vulture-pic {
+  width: 705px;
+  height: 591px;
+   }
+
+.eagle-margin {
+  margin-bottom: 25px;
+}
+
+h3 {
+  display: inline;
+  margin: 180px;
+  text-align: center;
+  }
+
+
+
+.tm {
+  margin-left: 350px;
+  display: inline-block;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.info,h2 {
+  text-align: center;
+  margin-bottom: -10px;
+}
+
+.info {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 17px;
+  float: right;
+  margin-right: 700px;
+  width: 500px;
+  margin-bottom: 15px;
+}
+
+
+  
+  .home {
+    height: 50px;
+    width: 110px;
+    border-radius: 25px;
+    margin-left: 50px;
+    float: left;
+    background-color: #3a3a3a;
+    color: white;
+    cursor: auto;
+    opacity: .7;
+    font-size: 20px;
+    padding-bottom: 5px;
+    margin-top: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+
+
+.staff {
+  font-size: 50px;  
+  text-decoration: none;
+}
+
+.about {
+  font-size: 22px;
+  width: 820px;
+  text-align: center;
+  margin-top: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: 10px;
+}
+
+.team {
+  margin-top: 25px;
+  width: auto;
+}
+
+/* Survey Css Below */
+
+.border {
+  border-top: 4px solid black;
+}
+
+.survey-h1 {
+font-weight: bold;
+text-align: center;
+font-size: 50px;
+color: black;
+
+ }
+
+ span {
+border: 5px solid black;
+border-radius: 25px;
+display: block;
+position: absolute;
+margin-left: 25%;
+margin-top: 45px;
+font-size: 30px;  
+color: black;
+padding-bottom: 20px;
+
+
+ }
+
+.submit {
+border-radius: 50px;
+font-size: 30px;
+cursor: pointer;
+padding: 5px;
+color: black;
+margin: 920px;
+margin-left: 550px;
+width: 300px;
+margin-bottom: 55px;}
+
+input {
+  border-radius: 5px;
+  margin-left: 20px;
+  height: 25px;
+  width: 500px;
+}
+
+
+
+
+
